@@ -1,0 +1,10 @@
+export const DEFAULT_WINDOW_WIDTH = 400;
+export const DEFAULT_WINDOW_HEIGHT = 600;
+export const CHARACTER_SIZE_MEDIUM = 120;
+export const GRAVITY = 0.15;
+export const FRICTION = 0.85;
+export const GROUND_LEVEL = -30;
+export const ANIMATION_FRAME_DURATION = 100;
+export const IDLE_DURATION = 3000;
+export const WALK_DURATION = 5000;
+export const DEFAULT_FOCUS_DURATION = 25;
